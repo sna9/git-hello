@@ -3,4 +3,4 @@ I added the following files:
 
 1.index.html
 
-Modified the README
+Modified the README file
