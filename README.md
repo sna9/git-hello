@@ -1,4 +1,6 @@
 # Currently added files
 I added the following files:
 
-index.html
+1.index.html
+
+Modified the README
